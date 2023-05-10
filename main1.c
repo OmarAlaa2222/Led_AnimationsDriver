@@ -1,9 +1,4 @@
-/*
- * main1.c
- *
- *  Created on: May 9, 2023
- *      Author: Legion
- */
+
 
 #define CPU 8000000UL
 #include "util/delay.h"
