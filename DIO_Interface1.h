@@ -1,9 +1,4 @@
-/*
- * DIO_Interface1.h
- *
- *  Created on: May 9, 2023
- *      Author: Legion
- */
+
 
 #ifndef DIO_INTERFACE1_H_
 #define DIO_INTERFACE1_H_
